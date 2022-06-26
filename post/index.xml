@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on spitearchives</title>
+    <link>spitearchives.com/post/</link>
+    <description>Recent content in Posts on spitearchives</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2022 03:12:50 -0400</lastBuildDate><atom:link href="spitearchives.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>March April</title>
+      <link>spitearchives.com/post/2022/04/26/march-april/</link>
+      <pubDate>Tue, 26 Apr 2022 03:12:50 -0400</pubDate>
+      
+      <guid>spitearchives.com/post/2022/04/26/march-april/</guid>
+      <description>March-April Update.  Everything in a zip file. JSON   Chat_Export_2022-04-26_json (photos)
+  Chat_Export_2022-04-26_json (photos, stickers, files)
+  HTML   Chat_Export_2022-04-26_html (photos)
+  Chat_Export_2022-04-26_html (photos, stickers, files)
+ </description>
+    </item>
+    
+  </channel>
+</rss>
